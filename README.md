@@ -45,23 +45,23 @@ contact-book/
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/contact-book.git
-cd contact-book
+git clone https://github.com/Aakash-sittu/contactList.git
+cd contaactlist
 ```
 
 ### 2️⃣ Backend Setup (API)
 
 ```sh
 cd backend
-yarn install
-yarn start  # Runs the server on PORT 5000
+yarn 
+yarn dev  # Runs the server on PORT 5000
 ```
 
 ### 3️⃣ Frontend Setup (React)
 
 ```sh
 cd frontend
-yarn install
+yarn 
 yarn dev  # Starts the React app on localhost:5173
 ```
 
